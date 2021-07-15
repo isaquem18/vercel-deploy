@@ -6,10 +6,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>MyApp | Home</title>
+        <title>Isaque Dev</title>
       </Head>
       <h1>ola mundo</h1>
-      <h2>testanto uma nova branch</h2>
     </div>
   )
 }
