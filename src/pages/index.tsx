@@ -9,6 +9,7 @@ export default function Home() {
         <title>MyApp | Home</title>
       </Head>
       <h1>ola mundo</h1>
+      <h2>testanto uma nova branch</h2>
     </div>
   )
 }
